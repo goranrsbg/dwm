@@ -1,4 +1,6 @@
 dwm
+config.h
 *.orig
 *.bak
-config.h
+*.o
+
